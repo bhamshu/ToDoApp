@@ -26,6 +26,3 @@ Create your webpage using component and dummy data
 * Using command line navigate to Day2 folder.
 * Install all the required node modules using below command: `npm run install`
 * After the setup is done, to view the application run the below command: `npm run start`
-
-# Day 2 Homework:
-Implement your own app referencing the above mentioned ToDo app.

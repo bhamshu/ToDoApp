@@ -2,7 +2,7 @@
 
 # Day 1 covers: (Basics of Javascript)
 * Pre requisite for React
-* Setting up basic application using creat-react-app 
+* Setting up basic application using `npx create-react-app my-app`
 
 # Day 2 covers: (Reacg Basics Find these inside Day 2)
 * JSX
@@ -24,5 +24,5 @@ Create your webpage using component and dummy data
 * Fork the repository. There is a fork button in top right
 * Clone the forked repo. Example: `git clone https://github.com/shivtej1505/ToDoApp`. This will copy the codebase to your local filesystem
 * Using command line navigate to Day2 folder.
-* Install all the required node modules using below command: `npm run install`
+* Install all the required node modules using below command: `npm install`
 * After the setup is done, to view the application run the below command: `npm run start`
